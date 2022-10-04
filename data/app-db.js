@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 assert = require('assert'); 
 
-const url = 'mongodb+srv://cluster0.t51esuj.mongodb.net/nftVerifyUsers';
+const url = 'mongodb+srv://jennifercarreno:lolpop09@cluster0.t51esuj.mongodb.net/?retryWrites=true&w=majority';
 mongoose.connect(
   url,
   {
